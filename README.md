@@ -1,10 +1,10 @@
 # ML-1
 Machine learning project :
-# 🧠 Parkinson’s Disease Detection using Machine Learning  
+#  Parkinson’s Disease Detection using Machine Learning  
 
 Detect Parkinson’s disease early using **machine learning models** trained on patient data. Early detection can significantly improve treatment outcomes and quality of life.  
 
-## 📌 Project Overview  
+##  Project Overview  
 This project aims to:  
 - Classify patients as **Parkinson’s** or **Healthy** using biomedical features.  
 - Explore feature importance for disease prediction.  
