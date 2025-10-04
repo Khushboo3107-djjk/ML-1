@@ -7,7 +7,7 @@ This project focuses on **classifying handwritten digits** (0–9) using machine
 - Implemented a machine learning pipeline to classify handwritten digits.  
 - Used image preprocessing and feature extraction for better model performance.  
 - Compared multiple algorithms to select the most accurate.
-- 
+
 # Tech Stack  
 - **Language:** Python  
 - **Libraries:** `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `tensorflow`/`keras` 
@@ -17,6 +17,6 @@ This project focuses on **classifying handwritten digits** (0–9) using machine
 ## 📂 Project Structure  
 
 :Digit-Classification
-│── 📄 dataset/                  # Folder containing digit images (e.g., MNIST)
-│── 📄 MNSIT_DIGIT_CLASSIFICATION.ipynb   # Colab Notebook with code & experiments
-│── 📄 Digit.md                 # Project documentation
+│──  dataset/                  # Folder containing digit images (e.g., MNIST)
+│──  MNSIT_DIGIT_CLASSIFICATION.ipynb   # Colab Notebook with code & experiments
+│──  Digit.md                 # Project documentation
