@@ -15,7 +15,7 @@ This project focuses on **classifying handwritten digits** (0–9) using machine
 
 
 ## 📂 Project Structure  
-```bash
+
 📁 Digit-Classification
 │── 📄 dataset/                  # Folder containing digit images (e.g., MNIST)
 │── 📄 MNSIT_DIGIT_CLASSIFICATION.ipynb   # Colab Notebook with code & experiments
