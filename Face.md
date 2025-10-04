@@ -11,11 +11,14 @@ Public surveillance (airports, hospitals, stations)
 Access control in workplaces & schools
 
 Smart camera systems
+
+
 **How It Works**
+
 1. **Dataset Collection**
+2. 
 
 We used the Kaggle Face Mask Dataset
-.
 
 The dataset has ~7,500 images divided into two categories:
 
@@ -24,6 +27,7 @@ With Mask (label = 1)
 Without Mask (label = 0)
 
 2️. **Data Preprocessing**
+
 
 Images were resized to 128x128 pixels.
 
@@ -36,7 +40,9 @@ Labels were created: 1 for with mask, 0 for without mask.
 Dataset was split into training (80%) and testing (20%).
 
 
-3. **Model Evaluation**
+3.**Model Evaluation**
+
+   
 On the test dataset:
 
 Accuracy ~91%
@@ -45,6 +51,7 @@ Plotted loss vs epochs and accuracy vs epochs to confirm good convergence
 
 
 4.**Prediction System**
+
 User provides an input image.
 
 The image is resized & preprocessed (just like training data).
