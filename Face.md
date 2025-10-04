@@ -1,5 +1,5 @@
- Face Mask Recognition using Deep Learning
- **Overview**
+😷 Face Mask Recognition using Deep Learning
+ 📌**Overview**
 
 This project implements a Face Mask Recognition System using Convolutional Neural Networks (CNNs).
 It automatically detects whether a person in an image is wearing a mask or not wearing a mask.
@@ -36,7 +36,7 @@ Labels were created: 1 for with mask, 0 for without mask.
 Dataset was split into training (80%) and testing (20%).
 
 
-3.  **Model Evaluation**
+3. **Model Evaluation**
 On the test dataset:
 
 Accuracy ~91%
@@ -44,7 +44,7 @@ Accuracy ~91%
 Plotted loss vs epochs and accuracy vs epochs to confirm good convergence
 
 
-4.  **Prediction System**
+4.**Prediction System**
 User provides an input image.
 
 The image is resized & preprocessed (just like training data).
