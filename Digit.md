@@ -18,7 +18,7 @@ Libraries: numpy, pandas, matplotlib, seaborn, scikit-learn, tensorflow/keras
 
 Models: Logistic Regression, Random Forest, SVM, CNN (optional)
 
-**Project Structure**
+**📂Project Structure**
 
 Digit-Classification
 ├─ dataset/ # Folder with digit images (e.g., MNIST)
