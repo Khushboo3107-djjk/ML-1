@@ -1,4 +1,5 @@
 😷 Face Mask Recognition using Deep Learning
+
  📌**Overview**
 
 This project implements a Face Mask Recognition System using Convolutional Neural Networks (CNNs).
@@ -16,9 +17,8 @@ Smart camera systems
 **How It Works**
 
 1. **Dataset Collection**
-2. 
 
-We used the Kaggle Face Mask Dataset
+ We used the Kaggle Face Mask Dataset
 
 The dataset has ~7,500 images divided into two categories:
 
