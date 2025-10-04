@@ -8,7 +8,7 @@ This project focuses on **classifying handwritten digits** (0–9) using machine
 - Used image preprocessing and feature extraction for better model performance.  
 - Compared multiple algorithms to select the most accurate.
 - 
-## ⚙️ Tech Stack  
+# Tech Stack  
 - **Language:** Python  
 - **Libraries:** `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `tensorflow`/`keras` 
 - **Models:** Logistic Regression, Random Forest, SVM, CNN (optional for deep learning)  
