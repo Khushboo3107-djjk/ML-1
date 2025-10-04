@@ -34,13 +34,17 @@ Pixel values were normalized by dividing by 255 (to scale them between 0 and 1).
 Labels were created: 1 for with mask, 0 for without mask.
 
 Dataset was split into training (80%) and testing (20%).
-3.**Model Evaluation**
+
+
+3.  **Model Evaluation**
 On the test dataset:
 
 Accuracy ~91%
 
 Plotted loss vs epochs and accuracy vs epochs to confirm good convergence
-4.**Prediction System**
+
+
+4.  **Prediction System**
 User provides an input image.
 
 The image is resized & preprocessed (just like training data).
@@ -51,7 +55,11 @@ The trained CNN model predicts:
 
 0 → Person is not wearing a mask
 
+
+
 **Project Structure**
+
+
 FaceMask-Recognition/
 │── data/
 │   ├── with_mask/
